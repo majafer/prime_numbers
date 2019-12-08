@@ -1,2 +1,2 @@
 # prime_numbers
-#pascal code
+pascal code
